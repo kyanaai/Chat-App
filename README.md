@@ -1,7 +1,5 @@
-Chat Application – COMP3133 Lab Test 1
+Chat Application 
 
-Name: Kiana Nezafat Yazdi
-Student ID: 101488042
 
 Description
 
